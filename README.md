@@ -1,4 +1,4 @@
-# QA-Candidate-Dede-Kharisma
+# QA-Dede-Kharisma
 
 API Testing for CRUD Features
 
