@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "13975324-2295-4416-835f-cbfe6a41fb3d",
-		"name": "testing",
+		"name": "CRUD Tests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "9654500-13975324-2295-4416-835f-cbfe6a41fb3d"
 	},
