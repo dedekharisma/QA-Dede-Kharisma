@@ -11,6 +11,7 @@ Set up
 
     Clone or download this repository
     Open Postman and import the crud-tests.postman_collection.json file from the repository
+    Import the environment testing-qa.postman_environment.json from the repository
 
 Running the tests
 
